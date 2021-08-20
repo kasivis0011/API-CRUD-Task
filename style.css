@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(255, 203, 164);
+}
+
+.container {
+  background-color: white;
+  width: 350px;
+  display: flex;
+  margin-right: 16px;
+  margin-bottom: 16px;
+  margin-top: 5px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.img-container {
+  width: 100px;
+  display: inline-block;
+}
+
+.img {
+  border-radius: 50%;
+}
+
+.name-container {
+  width: 190px;
+  padding: 10px;
+}
